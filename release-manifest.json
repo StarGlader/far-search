@@ -1,9 +1,9 @@
 {
-  "release": "1.0.79",
-  "sourceCommit": "af833f2",
+  "release": "1.0.80",
+  "sourceCommit": "04e111745d2d1bcf633dc12a5320fc802964b8d3",
   "ruleset": "1.22",
-  "encryptedIndexSha256": "eedf68d065fbb5bfc9b6023eb6f80ea64c55010acad843b4aab4b7b7a3d44623",
-  "plainSha256": "b6c3b53f5961774a862b6694ce165d2ca52af5b81b064852084f2a89870f174c",
+  "encryptedIndexSha256": "fe5eafe74d259c74d72844f8144e6529ae8cf6d2638a9d9f37902833dc3673f4",
+  "plainSha256": "30a74119cca64bbbd63ff46dc12a9a8d5ae0c971794349c59f783c625c13c844",
   "assetCount": 28,
   "assets": {
     "assets/83608815-370f-45f7-a42c-d9cab1c7cf7d.svg": "f1b6055e0006b9dfdfbfeccb35428e91fd5e8d01a7470c22b5e1aa76236b754a",
